@@ -1,3 +1,9 @@
 created from *master
 
+<<<<<<< HEAD
 modified from *feature
+modified from *feature2
+=======
+modified from *feature
+modified from *feature2
+>>>>>>> test1 modified from *feature2
